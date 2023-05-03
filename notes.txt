@@ -1,0 +1,36 @@
+Notes:
+Web App notes:
+Connects humans and dogs
+
+About Me:
+Get something up and running
+Pawmates:
+Have a dog
+Find dog friends and friends
+Filter by distance
+Small dogs, big dogs
+Dog dads and dog moms
+Find people based on filters (dog dads, dog moms, etc.)
+
+Hourly rate $25
+
+Timesheet
+
+
+Log in: name, dOB, how many dogs, the breeds, weight, retrieve current location, upload photo for log-in profile
+
+About Me after the log in
+
+
+Be able to scroll through photos of dogs
+
+Search with filters
+
+
+
+
+Let them know about PawPrint
+Email her about any questions
+keerat.singh@gmail.com
+Sarika
+713-454-4914
