@@ -25,6 +25,7 @@ export default function UploadAndDisplayImage() {
       )}
       <br />
       <br />
+      {/* upload a file to the cloud */}
       <input
         type="file"
         name="myImage"
